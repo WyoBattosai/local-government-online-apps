@@ -1,10 +1,15 @@
+[FinderPreview]: http://www.arcgis.com/apps/Solutions/s2.html?app=apps2/Finder
+[FinderThumbnail]: local-government-online-apps.png "Local Government Online App using the 'Finder' configuration"
+[FEFPreview]: http://www.arcgis.com/apps/Solutions/s2.html?app=apps2/FindEditFilter
+[FEFThumbnail]: local-government-online-apps2.png "Local Government Online App using the 'Find, Edit, and Filter' configuration"
+
 # local-government-online-apps
 
 This subset of our open source software helps local governments provide web applications to their citizens
 via Esri's ArcGIS.com ecosystem, a place where individuals and organizations can create maps and applications
 to share on the Internet.
 
-![Image of Local Government Online App using the 'Parcel Viewer' configuration](local-government-online-apps.png "Local Government Online App using the 'Parcel Viewer' configuration")
+[![Image of Local Government Online App using the 'Finder' configuration][FinderThumbnail]][FinderPreview] [![Image of Local Government Online App using the 'Find, Edit, and Filter' configuration][FEFThumbnail]][FEFPreview]
 
 ## Features
 
@@ -18,10 +23,8 @@ on browser screens from phone through tablet to desktop.
 
 Currently, two application configurations are provided:
 
-* Finder (formerly called Parcel Viewer)
-* Find, Edit, and Filter
-
-![HTML5 Powered with CSS3 / Styling, Device Access, and Graphics, 3D & Effects](http://www.w3.org/html/logo/badge/html5-badge-h-css3-device-graphics.png "HTML5 Powered with CSS3 / Styling, Device Access, and Graphics, 3D & Effects")
+* Finder (formerly called Parcel Viewer) *[preview the application][FinderPreview]*
+* Find, Edit, and Filter *[preview the application][FEFPreview]*
 
 ## Instructions
 
